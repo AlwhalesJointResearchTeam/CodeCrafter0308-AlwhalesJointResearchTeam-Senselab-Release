@@ -1,7 +1,7 @@
-﻿{
+{
   "latest_version": "0.1",
   "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.1.exe",
-  "sha256": "7929558A7342F046DBFF90ADB73FBB82F202F83719E9C8DC3A8CC3C1E0CB5BE8",
+  "sha256": "6FC332ED92D046B4D1C40647ADE5520B17F5C038EC2C60DE53DD1B236839D49D",
   "release_notes": "SenseLab 0.1 initial release.",
   "mandatory": false
 }
