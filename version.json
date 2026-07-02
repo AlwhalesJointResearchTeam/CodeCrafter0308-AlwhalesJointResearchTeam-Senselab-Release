@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.1",
-  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.1.exe",
-  "sha256": "6FC332ED92D046B4D1C40647ADE5520B17F5C038EC2C60DE53DD1B236839D49D",
-  "release_notes": "SenseLab 0.1 initial release.",
+  "latest_version": "0.2",
+  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.2.exe",
+  "sha256": "5A0DDD24444D78F53580407EE25D2EB94CD760AA05187033699C8077B4BC9D25",
+  "release_notes": "SenseLab 0.2 fixes the environment temperature and humidity readout so it uses the first detected sensor ID as the stable source.",
   "mandatory": false
 }
