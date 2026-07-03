@@ -1,7 +1,8 @@
 {
-  "latest_version": "0.3",
-  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.3.exe",
-  "sha256": "928D4F6E803A223152A18B9403F3F3C49A38D84F753A303D35A1A8C8C5F58006",
-  "release_notes": "SenseLab 0.3 adds an environment sensor ID selector before the temperature and humidity readout, so users can choose which sensor node provides T/H values.",
-  "mandatory": false
+  "latest_version": "0.4",
+  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.4.exe",
+  "sha256": "FA3668C87947C6530A2C0A42CDD7C042CF87128657BE9D14393DC2C93F1E67DF",
+  "release_notes": "SenseLab 0.4 adds installer language selection for Chinese or English and starts supporting patch update metadata for future releases.",
+  "mandatory": false,
+  "patches": []
 }
