@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.4",
-  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.4.exe",
-  "sha256": "52E0126032FE124057F23760CBA6430E3E07247321C88BD3F5408F47F1612023",
-  "release_notes": "SenseLab 0.4 adds installer language selection for Chinese or English and starts supporting patch update metadata for future releases.",
+  "latest_version": "0.5",
+  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.5.exe",
+  "sha256": "BC752869BE1BCBE10A4471966C5CDEA4D8910BFD5DC36A1FD0CB4E4AE0003332",
+  "release_notes": "SenseLab 0.5 adds per-channel excitation target selection, scan-mode labels in plot legends, continued plotting after clearing curves, timestamp plotting for channels with different frequencies, and hides abnormal negative temperature or humidity readings.",
   "mandatory": false,
   "patches": []
 }
