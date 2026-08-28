@@ -1,0 +1,39 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+tmp/
+temp/
+log/
+logs/
+
+# Unpacked application/runtime directories
+ReleaseApp/
+ReleaseAppArray/
+app/
+unpacked/
+
+# Build and packaging output
+build/
+dist/
+installer-output/
+[Bb]in/
+[Oo]bj/
+
+# Local metadata
+.env
+*.csv
+*.db
+*.pdb
+
+# Keep official release installers tracked through Git LFS.
+!SenseLabSetup_v*.exe
