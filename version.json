@@ -1,8 +1,8 @@
 {
   "latest_version": "0.6",
   "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.6.exe",
-  "sha256": "B4B8F41D050A2791345A2D6E808B054217A6CF246378159FFFF599D8CB8FA147",
-  "release_notes": "SenseLab 0.6 supports ICECS text commands and the DielExct-Main-MB-V1.1 board profile. Adds fixed and sweep frequency settings from 5 to 100 kHz, PWM control, addressed configuration readback, a longer 15-second confirmation window for delayed wireless replies, bounded read-only query retries, delayed-reply handling, damaged JSON line recovery and input validation. Valid measurements require compatible board firmware with successful calibration.",
+  "sha256": "FE4331489ADAFDC1219AFBD18BE7DE5920EE854DF51A5E743B4E5FCE12A6AB25",
+  "release_notes": "SenseLab 0.6 supports ICECS commands and DielExct fixed/sweep frequency controls from 5 to 100 kHz, PWM control and addressed configuration readback. Opening an MB serial connection now queries the selected sensor automatically and displays calibration failure or measurement reception status. Queries have a 15-second deadline and bounded read-only retries. Valid measurements require successful board calibration.",
   "mandatory": false,
   "patches": []
 }
