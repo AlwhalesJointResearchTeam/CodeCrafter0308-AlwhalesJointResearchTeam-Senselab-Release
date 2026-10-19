@@ -1,8 +1,8 @@
 {
   "latest_version": "0.6",
   "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.6.exe",
-  "sha256": "4C911D5F1A1BD6DC6925875E1C7890252AE519FBB6B3F34C4A81BB6866180457",
-  "release_notes": "SenseLab 0.6 supports ICECS command syntax and DielExct-Main-MB-V1.1. Adds board profiles, fixed/sweep frequency controls, PWM control, addressed configuration readback, bounded read-only query retries and input validation. Verified on the powered STM32L431CBT6 board over ZigBee and USB serial.",
+  "sha256": "B4B8F41D050A2791345A2D6E808B054217A6CF246378159FFFF599D8CB8FA147",
+  "release_notes": "SenseLab 0.6 supports ICECS text commands and the DielExct-Main-MB-V1.1 board profile. Adds fixed and sweep frequency settings from 5 to 100 kHz, PWM control, addressed configuration readback, a longer 15-second confirmation window for delayed wireless replies, bounded read-only query retries, delayed-reply handling, damaged JSON line recovery and input validation. Valid measurements require compatible board firmware with successful calibration.",
   "mandatory": false,
   "patches": []
 }
