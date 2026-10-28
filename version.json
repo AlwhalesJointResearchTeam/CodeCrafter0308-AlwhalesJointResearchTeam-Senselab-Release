@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.6",
-  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.6.exe",
-  "sha256": "FE4331489ADAFDC1219AFBD18BE7DE5920EE854DF51A5E743B4E5FCE12A6AB25",
-  "release_notes": "SenseLab 0.6 supports ICECS commands and DielExct fixed/sweep frequency controls from 5 to 100 kHz, PWM control and addressed configuration readback. Opening an MB serial connection now queries the selected sensor automatically and displays calibration failure or measurement reception status. Queries have a 15-second deadline and bounded read-only retries. Valid measurements require successful board calibration.",
+  "latest_version": "0.7",
+  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.7.exe",
+  "sha256": "72226654ED83EE0C840600F31218B0BB01B56DA3F7137E2482365CF69DEDEBD0",
+  "release_notes": "SenseLab 0.7 统一激励设置，移除板卡型号选择，按传感器 ID 控制所有已更新固件的节点。支持 5 至 100 kHz 定频和扫频、PWM 设置、配置读取、ZigBee 自动重试及损坏 JSON 恢复。旧工程自动使用统一协议。",
   "mandatory": false,
   "patches": []
 }
