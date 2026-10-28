@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.7",
-  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.7.exe",
-  "sha256": "72226654ED83EE0C840600F31218B0BB01B56DA3F7137E2482365CF69DEDEBD0",
-  "release_notes": "SenseLab 0.7 统一激励设置，移除板卡型号选择，按传感器 ID 控制所有已更新固件的节点。支持 5 至 100 kHz 定频和扫频、PWM 设置、配置读取、ZigBee 自动重试及损坏 JSON 恢复。旧工程自动使用统一协议。",
+  "latest_version": "0.7.1",
+  "download_url": "https://github.com/AlwhalesJointResearchTeam/CodeCrafter0308-AlwhalesJointResearchTeam-Senselab-Release/raw/main/SenseLabSetup_v0.7.1.exe",
+  "sha256": "41DB33D251B8AC36C857BF31F3E78C3EAF576958267466609F2BA9F558B1EEE3",
+  "release_notes": "修复 V0.7 启动时 QtGui DLL 加载失败。打包时排除其他工具的同名 ICU 库，使用 Windows 系统 ICU。保留统一激励设置和串口协议。已通过真实 EXE 启动检查及 114 项回归测试。",
   "mandatory": false,
   "patches": []
 }
